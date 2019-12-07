@@ -5,4 +5,6 @@ SOLID principles in php
     <li>single responsibility</li>
     <li>open-closed</li>
     <li>Liskov substitution</li>
+    <li>interface segregation</li>
+    <li>dependency inversion</li>
 </ul>
